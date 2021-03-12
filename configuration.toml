@@ -1,0 +1,22 @@
+token = 'TOKEN DU VOTRE BOT DISCORD'
+guild = 'IDENTIFIANT DU SERVEUR'
+channel = 'IDENTIFIANT DU SALON'
+
+[status]
+    [status.first]
+        name = "Web"
+        servers = [
+            ["IP 1", "Première IP"],
+            ["IP 2", "Deuxième IP"],
+        ]
+    [status.second]
+        name = "VPS"
+        servers = [
+            ["IP 3", "Troisième IP"],
+            ["IP 4", "Quatrième IP"],
+        ]
+    [status.third]
+        name = "Cloud"
+        servers = [
+            ["IP 5", "Cinquième IP"],
+        ]

@@ -1,0 +1,17 @@
+{
+  "name": "DiscordBotStatus",
+  "version": "1.6.4",
+  "description": "Bot Discord de status",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "SWIZCLOUD",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "ping": "^0.3.0",
+    "toml": "^3.0.0"
+  }
+}
